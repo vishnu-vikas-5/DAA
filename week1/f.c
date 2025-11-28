@@ -11,4 +11,6 @@ int v=fac(a);
 printf("the factorial of the given number is %d",v);
 return 0;
 }
-//since the return statements call the function recursively the space taken will increase accordingly only while the recursion is called because there will be another return statements so  space complexity will be o(n);
+//since the return statements call the function recursively the space 
+taken will increase accordingly only while the recursion is called because
+there will be another return statements so  space complexity will be o(n);

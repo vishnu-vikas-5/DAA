@@ -13,4 +13,8 @@ n1=temp;
 }
 return 0;
 }
-//since there are 3 variable the space taken will be about 12bytes and now we  are changing in the loop there is an another installation of a variable and inside the loop the space is being created n times but the variable gets overwrited there because the address of the memory will be same so the space complexity will be o(n)'
+//since there are 3 variable the space taken will be about 12bytes 
+and now we  are changing in the loop there is an another installation of a
+variable and inside the loop the space is being created n times but the 
+variable gets overwrited there because the address of the memory will be same 
+so the space complexity will be o(n)'

@@ -11,6 +11,8 @@ printf("the sum of square of the number is %d",c);
 
 return 0;
 }
-// since in the for loop the memory is updating the  but it doesn't effect the space of the variable so the space remains constant space complexity will be o(1);
+// since in the for loop the memory is updating the  but 
+it doesn't effect the space of the variable so the space 
+  remains constant space complexity will be o(1);
 
 
